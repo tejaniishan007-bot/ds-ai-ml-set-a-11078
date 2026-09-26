@@ -224,5 +224,6 @@ The target label is not used to choose the clusters.
 
 ## Declaration
 
+explanation video :  https://drive.google.com/file/d/1gz4bv2BocmHIS0fvrJr5y8dKrwsAQRE8/view?usp=sharing
 > All work is my own except where explicitly cited or referenced.
 
